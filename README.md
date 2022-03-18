@@ -1,2 +1,2 @@
-# proliecan.github.com
+# proliecan.github.io
 Github Pages root page
